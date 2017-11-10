@@ -1,13 +1,6 @@
 
 
 
-
-"""Questions or Problems:
-1. Generate the infinite sequence
-2. nth term
-3. 
-"""
-
 def main_func(N = 4000000): # Int -> Int (MaxN -> sum)
     A = fib_gen(1,2)
     s = 0
